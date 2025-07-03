@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "RuneEra",
   description: "RPG colony management game",
@@ -16,35 +15,64 @@ export default defineConfig({
         {
           text: 'Getting Started',
           items: [
-            { text: 'Introduction', link: '/' },
-            { text: 'About the Game', link: '/about' },
-            { text: 'Screenshots', link: '/screenshots' }
+            { text: 'Introduction', link: '/wiki/introduction' },
+            { text: 'About the Game', link: '/wiki/about-game' },
           ]
         },
         {
-          text: 'Game Systems',
+          text: 'Universe',
           items: [
-            { text: 'Guild Management', link: '/systems/guild' },
-            { text: 'World Exploration', link: '/systems/world' },
-            { text: 'Rune Magic System', link: '/systems/runes' },
-            { text: 'Combat & Equipment', link: '/systems/combat' }
+            { text: 'Tier', link: '/wiki/universe/tier' },
+            { text: 'Map', link: '/wiki/universe/map' },
+            { text: 'Area', link: '/wiki/universe/area' },
+            { text: 'Biomes', link: '/wiki/universe/biomes' },
+            { text: 'Factions', link: '/wiki/universe/factions' },
+            { text: 'Dungeons', link: '/wiki/universe/dungeons' },
+            { text: 'Settings', link: '/wiki/universe/settings' },
           ]
         },
         {
-          text: 'Game World',
+          text: 'Systems',
           items: [
-            { text: 'Biomes & Environment', link: '/world/biomes' },
-            { text: 'Factions', link: '/world/factions' },
-            { text: 'Items & Crafting', link: '/world/items' },
-            { text: 'Dungeons & Bosses', link: '/world/dungeons' }
+            { text: 'Humanoids', link: '/wiki/systems/humanoids' },
+            { text: 'Health & Vitality', link: '/wiki/systems/health-vitality' },
+            { text: 'Diseases', link: '/wiki/systems/diseases' },
+            { text: 'Stress', link: '/wiki/systems/stress' },
+            { text: 'Inventory', link: '/wiki/systems/inventory' },
+            { text: 'Items', link: '/wiki/systems/items' },
+            { text: 'Equipment', link: '/wiki/systems/equipment' },
+            { text: 'Abilities', link: '/wiki/systems/abilities' },
+            { text: 'Combat', link: '/wiki/systems/combat' },
+            { text: 'Social', link: '/wiki/systems/social' },
+            { text: 'Arrest', link: '/wiki/systems/arrest' },
+            { text: 'Recruiting', link: '/wiki/systems/recruiting' },
+            { text: 'Jobs', link: '/wiki/systems/jobs' },
+            { text: 'Farming & Gathering', link: '/wiki/systems/farming-gathering' },
+            { text: 'Husbandry', link: '/wiki/systems/husbandry' },
+
+            { text: 'Settlement', link: '/wiki/systems/settlement' },
+            { text: 'Zone', link: '/wiki/systems/zone' },
+            { text: 'Room', link: '/wiki/systems/room' },
+            { text: 'Storage', link: '/wiki/systems/storage' },
+            { text: 'Mana', link: '/wiki/systems/mana' },
+            { text: 'Portal', link: '/wiki/systems/portal' },
+
+            { text: 'Adventure master', link: '/wiki/systems/adventure-master' },
+            { text: 'Exploration', link: '/wiki/systems/exploration' },
+            { text: 'Quests', link: '/wiki/systems/quests' },
+            { text: 'Events', link: '/wiki/systems/events' },
           ]
         },
         {
           text: 'Development',
           items: [
-            { text: 'Progress Updates', link: '/development/progress' },
-            { text: 'Roadmap', link: '/development/roadmap' },
-            { text: 'Community', link: '/development/community' }
+            { text: 'Motivation', link: '/wiki/development/motivation' },
+            { text: 'System Design', link: '/wiki/development/system-design' },
+            { text: 'Demos', link: '/wiki/development/demos' },
+            { text: 'Roadmap', link: '/wiki/development/roadmap' },
+            { text: 'Modding', link: '/wiki/development/modding' },
+            { text: 'Github', link: '/wiki/development/github' },
+            { text: 'Progress Updates', link: '/wiki/development/progress' },
           ]
         }
       ]
@@ -53,6 +81,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Wiki', link: '/wiki' },
+      { text: 'Screenshots', link: '/screenshots' },
     ]
   }
 })

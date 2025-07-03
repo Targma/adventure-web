@@ -1,11 +1,5 @@
 ## RuneEar website
 
-- Screenshoot BG
-
-# Disclaimer
-- Heavy usage of GenAI in Sprite Assets creation, due to budget constrains, still better presentation that basic godot sprite
-- Trying to gather an audience, to start kickstarter and fund artists.
-
 # Foreword/Motivation
 Inspiration
 
@@ -18,9 +12,9 @@ Inspiration
 
 # Game
 
-## Tier
-
 ## Universe
+- Tier
+
 ### World
 - Discovery
   - Dungeon
@@ -94,7 +88,7 @@ Inspiration
 
 # Universe settings
 
-# Implementation
+# System design
 - Mix of ECS and reactive
 - Task Multithreaded at entity level
 

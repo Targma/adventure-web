@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Learn More
-      link: /wiki
+      link: /wiki/introduction
     - theme: alt
       text: Screenshots
       link: /screenshots
@@ -40,5 +40,5 @@ features:
 ---
 
 ::: info Development Notice
-🎨 **Temporary Artwork**: Current game assets were crafted using AI tools and serve as placeholder art due to budget constraints. We're actively seeking community support to fund professional artists through an upcoming Kickstarter campaign. The final game will feature hand-crafted artwork that truly captures the RuneEra universe.
+🎨 **Temporary Artwork**: Current game assets were crafted using AI tools and serve as placeholder art due to budget constraints. We will be seeking community support to fund professional artists through an upcoming Kickstarter campaign. The final game will feature hand-crafted artwork that truly captures the RuneEra universe.
 :::
