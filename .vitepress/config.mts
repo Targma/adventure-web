@@ -25,7 +25,6 @@ export default defineConfig({
             { text: 'Tier', link: '/wiki/universe/tier' },
             { text: 'Map', link: '/wiki/universe/map' },
             { text: 'Area', link: '/wiki/universe/area' },
-            { text: 'Biomes', link: '/wiki/universe/biomes' },
             { text: 'Factions', link: '/wiki/universe/factions' },
             { text: 'Dungeons', link: '/wiki/universe/dungeons' },
             { text: 'Settings', link: '/wiki/universe/settings' },
@@ -64,15 +63,19 @@ export default defineConfig({
           ]
         },
         {
+          text: 'Demo',
+          items: [
+            { text: 'Performance', link: '/wiki/demo/performance' },
+            { text: 'Download', link: '/wiki/demo/download' },
+          ]
+        },
+        {
           text: 'Development',
           items: [
-            { text: 'Motivation', link: '/wiki/development/motivation' },
             { text: 'System Design', link: '/wiki/development/system-design' },
-            { text: 'Demos', link: '/wiki/development/demos' },
             { text: 'Roadmap', link: '/wiki/development/roadmap' },
             { text: 'Modding', link: '/wiki/development/modding' },
             { text: 'Github', link: '/wiki/development/github' },
-            { text: 'Progress Updates', link: '/wiki/development/progress' },
           ]
         }
       ]
@@ -80,7 +83,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Wiki', link: '/wiki' },
+      { text: 'Wiki', link: '/wiki/introduction' },
       { text: 'Screenshots', link: '/screenshots' },
     ]
   }
