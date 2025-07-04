@@ -21,6 +21,8 @@ The following runes are organized by archetype and tier, obtainable through dung
 
 ## **Warrior Archetype**
 
+*Warrior abilities focus on tanking, crowd control, team support, and devastating melee attacks, making them excellent frontline fighters and protectors.*
+
 ### Tier I
 
 ::: details Pull
@@ -162,10 +164,10 @@ Enhances all allied units in area and knocks back/stuns enemies (10 tiles knockb
 **Price:** 250 gold
 :::
 
-*Note: Warrior abilities focus on tanking, crowd control, team support, and devastating melee attacks, making them excellent frontline fighters and protectors.*
-
 
 ## **Berserker Archetype**
+
+*Berserker abilities emphasize raw damage output, life-stealing mechanics, and aggressive combat styles that reward taking risks for massive damage potential.*
 
 ### Tier I
 
@@ -290,11 +292,10 @@ Enters a berserk state granting life steal, chance to break enemy defenses, and 
 **Requirements:** Melee weapon
 :::
 
-*Note: Berserker abilities emphasize raw damage output, life-stealing mechanics, and aggressive combat styles that reward taking risks for massive damage potential.*
-
-
 
 ## **Archer Archetype**
+
+*Archer abilities excel in precise ranged combat, mobility through movement, trap deployment, and strategic positioning for maximum damage effectiveness.*
 
 ### Tier I
 
@@ -411,10 +412,10 @@ Temporarily enhances attacks to fire 2 additional projectiles with 40% damage fo
 **Requirements:** Ranged weapon
 :::
 
-*Note: Archer abilities excel in precise ranged combat, mobility through movement, trap deployment, and strategic positioning for maximum damage effectiveness.*
-
 
 ## **Rogue Archetype**
+
+*Rogue abilities focus on mobility, stealth, precision strikes, and debuff effects, excelling at hit-and-run tactics and single-target elimination.*
 
 ### Tier I
 
@@ -550,10 +551,10 @@ Creates a poison cloud that lasts 60 seconds, reducing movement speed and hit ra
 **Requirements:** Agility: 35, Intelligence: 15, Melee weapon
 :::
 
-*Note: Rogue abilities focus on mobility, stealth, precision strikes, and debuff effects, excelling at hit-and-run tactics and single-target elimination.*
-
 
 ## **Mage Archetype**
+
+*Mage abilities center around elemental magic, area-of-effect spells, and battlefield control through powerful ranged attacks and magical manipulation.*
 
 ### Tier I
 
@@ -686,9 +687,10 @@ Creates a large protective field that shields multiple allies from damage for 40
 **Requirements:** Intelligence: 30, Spirit: 45, Magic weapon  
 :::
 
-*Note: Mage abilities center around elemental magic, area-of-effect spells, and battlefield control through powerful ranged attacks and magical manipulation.*
 
 ## **Priest Archetype**
+
+*Priest abilities specialize in healing, protective enchantments, crowd control through sleep and fear effects, and powerful restoration magic for sustained team survival.*
 
 ### Tier I
 
@@ -751,16 +753,16 @@ Creates a fear aura around the caster that affects all enemies within range, cau
 **Requirements:** Intelligence: 30, Agility: 20, Magic weapon  
 :::
 
-:: details Blink **Target:** Tile Target
+::: details Blink 
+**Target:** Tile Target
 **Cooldown:** 320s
 **Cast Time:** 0.5s
 **Distance:** 15 tiles
 
-Instantly teleports the caster to target location and reduces cooldowns of other abilities by 25%. Has 2 charges.
+Instantly teleports the caster to target location and reduces cooldowns of other abilities by 100s. Has 2 charges.
 
 **Requirements:** Intelligence: 25, Spirit: 12
 :::
-
 
 ### Tier IV
 
@@ -786,7 +788,6 @@ Puts enemies in target area to sleep for a duration, rendering them unable to ac
 **Requirements:** Intelligence: 20, Agility: 12, Magic weapon  
 :::
 
-
 ### Tier V
 
 ::: details Guardian Shield
@@ -810,8 +811,6 @@ Revives target with 50% of maximum health and vitality. Has 3 charges.
 
 **Requirements:** Intelligence: 55, Strength: 25, Magic weapon  
 :::
-
-*Note: Priest abilities specialize in healing, protective enchantments, crowd control through sleep and fear effects, and powerful restoration magic for sustained team survival.*
 
 
 ::: tip Navigation
