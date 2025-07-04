@@ -36,6 +36,7 @@ export default defineConfig({
             { text: 'Humanoids', link: '/wiki/systems/humanoids' },
             { text: 'Health & Vitality', link: '/wiki/systems/health-vitality' },
             { text: 'Diseases', link: '/wiki/systems/diseases' },
+            { text: 'Curses', link: '/wiki/systems/curses' },
             { text: 'Stress', link: '/wiki/systems/stress' },
             { text: 'Inventory', link: '/wiki/systems/inventory' },
             { text: 'Items', link: '/wiki/systems/items' },
