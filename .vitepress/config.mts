@@ -45,7 +45,7 @@ export default defineConfig({
             { text: 'Combat', link: '/wiki/systems/combat' },
             { text: 'Social', link: '/wiki/systems/social' },
             { text: 'Arrest', link: '/wiki/systems/arrest' },
-            { text: 'Recruiting', link: '/wiki/systems/recruiting' },
+            { text: 'Recruit', link: '/wiki/systems/recruit' },
             { text: 'Jobs', link: '/wiki/systems/jobs' },
             { text: 'Farming & Gathering', link: '/wiki/systems/farming-gathering' },
             { text: 'Husbandry', link: '/wiki/systems/husbandry' },
