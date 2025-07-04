@@ -37,14 +37,54 @@ All humanoids utilize the same equipment slot system, providing consistent upgra
     - **Weather Protection**: Enhanced resistance to environmental hazards
     - **Sleeping bag**: Portable rest and recovery equipment
 
-## Armor Categories
+## **Weapon Categories**
+
+### **Melee Weapons**
+
+**One-Handed Melee:**
+- **Fist** - Unarmed combat, always available
+- **Sword** - Balanced melee weapon with good versatility
+- **Mace** - Blunt melee weapon with healing capabilities
+
+**Two-Handed Melee:**
+- **Daggers** - Fast, precise weapons for fast combat
+- **Spear** - Long-reach melee weapon for tactical positioning
+- **Hammer** - Heavy blunt weapon for devastating attacks
+- **Great Sword** - Large sword for maximum melee damage
+
+### **Ranged Weapons**
+- **Bow** - Two-handed ranged weapon for precise long-distance combat
+- **Crossbow** - One-handed ranged weapon allowing shield use
+
+### **Magic Weapons**
+- **Staff** - Two-handed magic weapon with healing capabilities
+- **Scepter** - One-handed magic weapon with healing capabilities
+
+### **Secondary Equipment**
+- **Shield** - Defensive equipment for protection and blocking
+- **Focus** - Magical off-hand item for spell enhancement
+
+### **Attack Types**
+- **Melee:** Close-range physical combat
+- **Ranged:** Long-distance projectile attacks  
+- **Magic:** Spell-based attacks using magical energy
+
+### **Special Properties**
+- **Two-Handed:** Requires both hands, cannot use with shield/focus
+- **Healing Capable:** Can be used for healing abilities (Mace, Staff, Scepter)
+- **Primary/Secondary:** Primary weapons are main combat tools, secondary provide support
+
+*This weapon system allows for diverse combat builds and tactical choices based on your preferred playstyle and class abilities.*
+
+
+## **Armor Categories**
 
 **Protection Specialization Systems**
 
 The armor system provides three distinct protection philosophies, each offering unique advantages 
 and trade-offs that cater to different combat styles and strategic approaches.
 
-### Heavy Armor
+### **Heavy Armor**
 
 **Maximum Protection Specialization**
 
@@ -66,7 +106,7 @@ and trade-offs that cater to different combat styles and strategic approaches.
 - **Group Protection**: Shielding allies through positioning and presence
 - **Siege Operations**: Superior protection during prolonged engagements
 
-### Medium Armor
+### **Medium Armor**
 
 **Balanced Combat Approach**
 
@@ -88,7 +128,7 @@ and trade-offs that cater to different combat styles and strategic approaches.
 - **Support Roles**: Balanced capabilities for assisting allies
 - **Adaptive Tactics**: Suitable for changing combat requirements
 
-### Light Armor
+### **Light Armor**
 
 **Speed and Agility Specialization**
 
