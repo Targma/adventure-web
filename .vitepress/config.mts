@@ -27,7 +27,7 @@ export default defineConfig({
             { text: 'Area', link: '/wiki/universe/area' },
             { text: 'Factions', link: '/wiki/universe/factions' },
             { text: 'Dungeons', link: '/wiki/universe/dungeons' },
-            { text: 'Settings', link: '/wiki/universe/settings' },
+            { text: 'Difficulty', link: '/wiki/universe/difficulty' },
           ]
         },
         {

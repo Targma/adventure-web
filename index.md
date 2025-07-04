@@ -31,8 +31,8 @@ features:
     details: Cultivate crops and raise livestock to sustain your growing settlements. Build greenhouses for year-round production, breed animals for resources, and develop sustainable food systems across different biomes.    
   - title: Rune Magic
     details: Master the ancient art of rune magic with ability runes, equipment enchantments and mana runes.
-  - title: Diverse Progression
-    details: Research new tiers of technologies to unlock advanced buildings, equipment, and magical abilities as you expand your settlement.
+  - title: Progressive Technology
+    details: Research advanced technologies to unlock new buildings, equipment, and magical abilities. Expand your capabilities as your settlement grows.
   - title: Dynamic Events
     details: Survive challenging events that test your leadership and strategic thinking. From harsh weather and disease outbreaks to faction raids, every decision matters.
   - title: Epic Quests

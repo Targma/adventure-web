@@ -34,5 +34,3 @@ Higher tiers introduce greater challenges and rewards:
 The tier system creates a natural risk-reward progression where venturing into higher-tier zones yields superior resources and equipment, but at the cost of significantly increased danger. 
 By pausing exploration of higher-tier zones, intensity will slowly degrade.
 This encourages players to carefully balance their expansion ambitions with their current capabilities, creating meaningful strategic decisions at every stage of development. 
-
-This progression system ensures that RuneEra remains engaging throughout hundreds of hours of gameplay, with each tier offering distinct challenges and opportunities for growth.
