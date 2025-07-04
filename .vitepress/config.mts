@@ -58,16 +58,15 @@ export default defineConfig({
             { text: 'Portal', link: '/wiki/systems/portal' },
 
             { text: 'Adventure master', link: '/wiki/systems/adventure-master' },
-            { text: 'Exploration', link: '/wiki/systems/exploration' },
             { text: 'Quests', link: '/wiki/systems/quests' },
             { text: 'Events', link: '/wiki/systems/events' },
           ]
         },
         {
-          text: 'Demo',
+          text: 'Alpha build',
           items: [
-            { text: 'Performance', link: '/wiki/demo/performance' },
-            { text: 'Download', link: '/wiki/demo/download' },
+            { text: 'Performance', link: '/wiki/alpha-build/performance' },
+            { text: 'Download', link: '/wiki/alpha-build/download' },
           ]
         },
         {
