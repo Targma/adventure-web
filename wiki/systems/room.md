@@ -109,3 +109,7 @@ Plan your furniture carefully to achieve the desired room type and avoid conflic
 Larger rooms require significantly more resources to heat and cool. 
 Consider multiple smaller specialized rooms instead of one large multi-purpose space.
 :::
+
+## Screenshot
+
+![Guide](/resources/menus/guide.png)

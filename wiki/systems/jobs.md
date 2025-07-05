@@ -52,3 +52,8 @@ Carefully plan specializations based on your guild's needs. Specialized humanoid
 ::: warning Limited Specializations
 Specialization choices are permanent and limited. Consider your long-term strategy before committing to specific profession paths.
 :::
+
+
+## Screenshots
+
+![Jobs list](/resources/menus/jobs_list.png)

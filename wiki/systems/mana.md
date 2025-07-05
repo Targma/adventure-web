@@ -151,3 +151,9 @@ Mana abilities have lengthy cooldowns measured in days. Plan ability usage strat
 ::: warning Depletion Consequences
 High mana generation attracts dangerous events. Consider reducing generation temporarily if facing overwhelming magical disturbances.
 :::
+
+## Screenshots
+
+![Mana menu](/resources/menus/mana_abilities.png)
+
+![Search](/resources/menus/search.png)

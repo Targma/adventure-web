@@ -137,3 +137,9 @@ These extensive options ensure that RuneEra can accommodate different playstyles
 Whether you prefer relaxed colony building or intense survival challenges, these settings allow you to create your ideal gameplay experience.
 
 The flexibility of this system means that no player needs to be frustrated by poor balance - simply adjust the relevant sliders to match your preferences and enjoy the game at your own pace.
+
+## Screenshots
+
+![Options menu](/resources/menus/options_gameplay.png)
+
+![Options menu](/resources/menus/options_hotkeys.png)

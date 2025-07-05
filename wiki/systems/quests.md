@@ -85,3 +85,7 @@ Check your quest log regularly for new opportunities, and remember that some que
 
 The quest system ensures that there's always something meaningful to do, 
 whether you're interested in combat, trade, exploration, or community building.
+
+## Screenshot
+
+![Quest](/resources/menus/quests.png)

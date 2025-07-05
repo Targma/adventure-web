@@ -827,3 +827,6 @@ Revives target with 50% of maximum health and vitality. Has 3 charges.
 Use the browser's search function (Ctrl+F) to quickly find specific abilities or keywords within this page.
 :::
 
+## Screenshots
+
+![Rune menu](/resources/menus/status_runes.png)

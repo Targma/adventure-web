@@ -66,3 +66,8 @@ This provides biome access while minimizing management complexity.
 Higher tier areas require substantial mana investment for settlement establishment.
 Plan expansion timing carefully to avoid resource shortages.
 :::
+
+
+## Screenshots
+
+![Transportation](/resources/menus/transportation.png)

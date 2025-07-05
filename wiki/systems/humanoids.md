@@ -139,3 +139,14 @@ RuneEra's humanoid system provides flexibility between autonomous operation and 
 
 This comprehensive character system ensures that each humanoid feels unique and valuable, 
 while providing deep customization options for players who enjoy character optimization and role-playing elements.
+
+
+## Screenshot
+
+![Schedule menu](/resources/menus/schedule.png)
+
+![Stats attributes](/resources/menus/stats_attributes.png)
+
+![Stats menu](/resources/menus/stats_activity.png)
+
+![Triggers](/resources/menus/triggers.png)

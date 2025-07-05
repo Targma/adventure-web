@@ -81,3 +81,11 @@ The faction system ensures a constantly evolving world:
 
 This comprehensive faction system ensures that the political landscape remains dynamic and unpredictable, 
 where every diplomatic decision and military action contributes to an ever-changing world of alliances, conflicts, and opportunities.
+
+## Screenshot
+
+![Inventory stock](/resources/menus/inventory_stock.png)
+
+![Inventory stock management](/resources/menus/inventory_stock_management.png)
+
+![Food priority](/resources/menus/food_priority.png)

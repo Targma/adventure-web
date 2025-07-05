@@ -224,3 +224,10 @@ including damage mitigation, mobility, and resistance to various attack types.
 - **Modifiers**: Stats can be modified by equipment rarity
 - **Aggregation**: Multiple offensive stat sources are combined additively
 - **Limits**: All percentage-based stats are capped at their maximum values during calculation
+
+## Screenshot
+
+![Gear menu](/resources/menus/stats_gear.png)
+
+![Equipment priority](/resources/menus/equipment_priority_list.png)
+
