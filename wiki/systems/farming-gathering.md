@@ -66,3 +66,7 @@ severely impacts long-term productivity.
 Monitor temperature ranges carefully. Plant death from temperature extremes can devastate 
 food supplies and herb production.
 :::
+
+## Screenshot
+
+![Farming zone](/resources/menus/farming_zone.png)

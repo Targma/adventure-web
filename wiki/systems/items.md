@@ -165,3 +165,8 @@ and maintenance become as important as acquisition, adding depth and realism to 
 
 ### TradePack
 - Trade and commerce items
+
+
+## Screenshots
+
+![Whitelist](/resources/menus/whitelist.png)

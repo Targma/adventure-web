@@ -70,6 +70,8 @@
 
 ## **Menus**
 
+![Research](/resources/menus/research.png)
+
 ![Options menu](/resources/menus/options_gameplay.png)
 
 ![Options menu](/resources/menus/options_hotkeys.png)
@@ -94,7 +96,15 @@
 
 ![Inventory stock management](/resources/menus/inventory_stock_management.png)
 
+![Whitelist](/resources/menus/whitelist.png)
+
 ![Triggers](/resources/menus/triggers.png)
+
+![Farming zone](/resources/menus/farming_zone.png)
+
+![Husbandry](/resources/menus/husbandry.png)
+
+![Husbandry Manageemnt](/resources/menus/husbandry_management.png)
 
 ![Food priority](/resources/menus/food_priority.png)
 

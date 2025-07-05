@@ -1,6 +1,6 @@
 **Core Gameplay & Inspiration**
 
-RuneEra draws inspiration from the acclaimed [RimWorld](https://en.wikipedia.org/wiki/RimWorld), 
+RuneEra draws inspiration from the acclaimed RimWorld, 
 renowned for its emergent storytelling and dynamic gameplay systems.
 While maintaining the engaging colony management foundation, we've enhanced the experience with
 deep RPG mechanics inspired by beloved titles such as ArcheAge, Valheim, and Path of Exile.
@@ -30,3 +30,8 @@ The world of RuneEra is alive with competing interests and constant challenges. 
 Meanwhile, relentless undead armies pose an ever-present threat, ensuring that no settlement is ever truly safe.
 
 This creates a rich, evolving gameplay experience where every decision matters and no two playthroughs are identical.
+
+
+## Screenshot
+
+![Home screen](/resources/home_screen.png)

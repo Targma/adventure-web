@@ -51,7 +51,11 @@ humanoids and settlement infrastructure, creating strategic decisions about reso
 This comprehensive inventory system creates meaningful logistical challenges and strategic decisions, 
 where effective resource management becomes as important as resource acquisition in building a successful settlement.
 
+## Screenshot
 
-## Screehshots
+![Inventory stock](/resources/menus/inventory_stock.png)
 
-![Faction menu](/resources/menus/factions.png)
+![Inventory stock management](/resources/menus/inventory_stock_management.png)
+
+![Food priority](/resources/menus/food_priority.png)
+

@@ -112,3 +112,16 @@ The game features a sophisticated area management system that maintains world co
 - **Dynamic Reloading**: Upon revisiting stored areas, the system loads your previous progress while applying time-based modifications
 
 This persistent world system ensures that every area feels consequential and alive, where strategic decisions about exploration timing and resource management carry lasting impact on your overall progression.
+
+
+## Screenshot
+
+![Plains base](/resources/game/plains_base_1.png)
+
+![Desert base](/resources/game/desert_base_1.png)
+
+![Mountain base](/resources/game/mountain_base_1.png)
+
+![Jungle base](/resources/game/jungle_base_1.png)
+
+![Forest base](/resources/game/forest_base_1.png)

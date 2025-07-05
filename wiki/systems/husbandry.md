@@ -7,6 +7,12 @@
 Husbandry provides efficient leather and meat acquisition through strategic animal management. 
 Success requires careful planning of breeding programs, habitat management, and transportation logistics.
 
+## Animal Varieties
+
+**Wildlife Diversity**
+- **50 different animals** 10 for each biome
+- **Meat & Hide** There are 10 different meats and 10 different hides
+
 ## Getting Started
 
 **Breeding Requirements**
@@ -54,3 +60,10 @@ Maintain breeding pairs of multiple species to ensure steady resource production
 ::: warning Predator Management
 Never house predatory animals with prey species. This will result in lost livestock and disrupted breeding programs.
 :::
+
+
+## Screenshot
+
+![Husbandry](/resources/menus/husbandry.png)
+
+![Husbandry Manageemnt](/resources/menus/husbandry_management.png)
