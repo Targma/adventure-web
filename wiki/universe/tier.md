@@ -1,6 +1,6 @@
 **Tier-Based Progression System**
 
-RuneEra features a comprehensive five-tier progression system, designated by Roman numerals I through V.
+RuneEra features a comprehensive five-tier progression system.
 This structured advancement framework ensures meaningful growth and introduces increasingly complex challenges as players develop their settlements and guild members.
 
 **Tier Advancement**

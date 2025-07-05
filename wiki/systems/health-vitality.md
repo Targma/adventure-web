@@ -40,12 +40,16 @@ Vitality restoration is intentionally limited to prevent exploitation and mainta
 - **Medical Treatment**: Enhanced recovery through proper medical care and facilities
 - **Time Investment**: Requires significant time commitment for meaningful recovery
 
+::: warning Treatment Interruption
+Treated humanoids lose their treatment status if they take damage. This applies the "Open Wounds" effect, preventing any medical treatment for the next 6 hours.
+:::
+
 ### Instant Recovery Options
 
 **Vitality Potions**
 - **Immediate Effect**: Instant vitality restoration when consumed
 - **Cooldown Limitation**: Long cooldown periods prevent spam usage
-- **Rare Resource**: Expensive and difficult to obtain, making each use strategic
+- **Rare Resource**: Expensive, making each use strategic
 
 ## Critical Vitality Thresholds
 
@@ -83,7 +87,7 @@ As vitality decreases, humanoids face increasingly severe penalties that can thr
 **Death**
 - **Trigger**: When vitality reaches zero
 - **Effect**: Permanent character death
-- **Consequence**: Complete loss of the humanoid, including all equipment, skills, and progression
+- **Consequence**: Complete loss of the humanoid
 - **Strategic Impact**: Makes vitality management crucial for long-term guild survival
 
 ## Strategic Combat Implications

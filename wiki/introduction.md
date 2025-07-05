@@ -17,7 +17,6 @@ commission professional artists to create the hand-crafted artwork that RuneEra 
 **How You Can Help**
 
 By exploring this wiki and learning about RuneEra's features, systems, and vision, you're taking the first step in potentially becoming part of our 
-development journey. Your support through our upcoming Kickstarter campaign will directly fund professional artwork and help us deliver a polished, 
-visually stunning game that matches the depth of its gameplay systems.
+development journey.
 
 Thank you for your interest in RuneEra. We're excited to share this adventure with you.

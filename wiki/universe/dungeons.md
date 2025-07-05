@@ -2,8 +2,7 @@
 
 **Underground Challenges and Rewards**
 
-RuneEra features two distinct dungeon types that provide challenging combat encounters and exclusive rewards essential for progression. 
-Each dungeon type offers unique mechanics, enemies, and treasures tailored to different aspects of character and settlement development.
+RuneEra features two distinct dungeon types that provide challenging combat encounters and exclusive rewards essential for progression.
 
 ## Monster Dungeons
 

@@ -45,6 +45,13 @@ Complex multi-area management showcasing the engine's ability to handle:
 - Real-time synchronization of faction activities
 
 ### Large-Scale Resource Gathering
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eH3dJMzCCNU?si=Vz0W7sKyAKCTOTLt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Intensive resource extraction scenarios demonstrating:
 - Mass caravan operations across multiple areas
 - Coordinated mining and harvesting activities
@@ -58,19 +65,23 @@ Intensive resource extraction scenarios demonstrating:
 - Efficient pathfinding for large groups
 
 ### Large-Scale Battle Scenarios
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dy5mX9iCC7s?si=_tCRcwNB_c4TZrrd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7obBpv78GA?si=QyneB_xZTLM-wlqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+
 Combat stress testing featuring:
 - Massive faction warfare with hundreds of units
 - Complex battlefield AI coordination
 - Real-time damage and status effect calculations
-- Dynamic terrain modification during combat
-
-**Battle System Efficiency:**
-- Smooth performance with 200+ active combat units
-- Accurate collision detection and pathfinding
-- Dynamic visual effects without frame drops
-- Efficient AI decision-making algorithms
-
-
 
 
 ::: tip Performance Monitoring
@@ -78,5 +89,5 @@ The game includes built-in performance monitoring tools to help identify potenti
 :::
 
 ::: info System Requirements
-While extensively optimized, RuneEra performs best on systems meeting the recommended specifications. Check the system requirements page for detailed information.
+While extensively optimized, RuneEra performs best on modern systems.
 :::

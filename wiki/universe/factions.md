@@ -27,41 +27,23 @@ Your standing with each faction evolves through meaningful interactions and stra
 
 The Adventure Master system governs faction interactions, creating an ever-changing political landscape:
 
-**Diplomatic Activities**
+**Positive interactions**
 - **Cooperation**: Factions work together on shared objectives
 - **Trade Relations**: Economic partnerships that benefit both parties
 - **Peace Negotiations**: Diplomatic resolutions to territorial disputes
 
-**Conflict Dynamics**
+**Negative interactions**
 - **Disagreements**: Minor disputes over resources or territory
 - **Military Conflicts**: Armed confrontations between rival factions
 - **Territorial Wars**: Large-scale conflicts that reshape the political map
 
-## Settlement Development Impact
+**Faction Development Impact**
 
-**Consequences of Faction Relations**
-
-Faction interactions directly influence settlement growth and capabilities:
-
-**Positive Development**
-- **Enhanced Infrastructure**: Developed factions invest in better buildings and defenses
-- **Expanded Trading**: Developed settlements offer more diverse goods and services
-- **Population Growth**: Developed factions attract more citizens and specialists
-
-**Negative Consequences**
-- **Infrastructure Decay**: Conflict-torn settlements suffer reduced functionality
-- **Limited Resources**: War-damaged factions offer fewer trading opportunities
-- **Settlement Destruction**: Prolonged warfare can completely eliminate faction bases
-- **Population Decline**: Struggling factions lose citizens and skilled workers
-
-## Strategic Implications
-
-**Opportunistic Gameplay**
-
-This dynamic system creates multiple strategic pathways:
-
-- **Diplomacy**: Build alliances for mutual protection and resource sharing
-- **Exploitation**: Target weakened factions for raiding and resource acquisition
+Positive interactions between factions boost their settlement development levels, leading to enhanced 
+infrastructure, better trade opportunities, and stronger defenses. Conversely, negative interactions and 
+conflicts degrade settlement quality, reducing available services and weakening faction capabilities.
+During prolonged warfare, settlements face the ultimate consequence: complete destruction and permanent 
+removal from the world map.
 
 ## Faction Lifecycle
 
@@ -82,6 +64,6 @@ The faction system ensures a constantly evolving world:
 This comprehensive faction system ensures that the political landscape remains dynamic and unpredictable, 
 where every diplomatic decision and military action contributes to an ever-changing world of alliances, conflicts, and opportunities.
 
-## Screenshots
+## Screenshot
 
-![Faction menu](/resources/menus/factions.png)
+![Inventory stock](/resources/menus/factions.png)

@@ -40,9 +40,10 @@ RuneEra features five distinct races, each bringing unique characteristics and c
 - **Base Stats**: Each race begins with different attribute distributions
 - **Racial Needs**: Specific racial need (Recreation for humans)
 
-**Development Status**
-While all races have complete entity component systems, only humans feature full visual implementation with sprites for bodies, armor, and weapons. 
+::: tip Development Status
+While all races have complete entity component, only humans feature full visual implementation with sprites for bodies, armor, and weapons. 
 Other races will be fully realized in post-alpha updates.
+:::
 
 ## Traits
 
@@ -70,42 +71,37 @@ Attributes represent the core capabilities of each humanoid and can be improved 
 ### Attribute Advancement
 
 **Progression Methods**
-- **Tier Leveling**: Natural attribute increases as humanoids gain experience
-- **Attribute Elixirs**: Rare consumables that provide permanent attribute boosts
+- **Tier Leveling**: Natural attribute increases as humanoids increase tier level
+- **Attribute Elixirs**: Rare consumables that provide permanent attribute increase
 - **Strategic Investment**: Choose which attributes to prioritize based on intended roles, required to equip specific ability/passive runes
 - **Attribute Restoration Elixirs**: Rare consumables that provide attribute reallocation
 
 ### Five Core Attributes
 
-**Stamina** *(Defensive Specialist)*
+**Stamina**
 - **Armor**: Increased protection against physical damage
-- **Endurance**: Enhanced ability to perform prolonged activities
+- **Endurance**: Enhanced ability to take more damage
 - **Damage Reduction**: Reduces incoming damage from all sources
-- **Role Synergy**: Essential for frontline fighters and dangerous job assignments
 
-**Strength** *(Physical Powerhouse)*
+**Strength**
 - **Damage Multiplier**: Increases all physical damage output
-- **Work Speed**: Accelerates completion of physical labor tasks
-- **Role Synergy**: Critical for warriors, miners, and construction workers
+- **Work Speed**: Accelerates completion of labor tasks
 
-**Intelligence** *(Precision Expert)*
+**Intelligence**
 - **Critical Rate**: Increases frequency of critical hits and exceptional results
 - **Critical Damage**: Enhances the potency of critical strikes and successes
 - **Craft Quality**: Improves the quality of crafted items and constructed buildings
-- **Role Synergy**: Vital for crafters, researchers, and skilled artisans
 
-**Agility** *(Speed and Accuracy)*
+**Agility**
 - **Dodge Rate**: Increases chance to avoid incoming attacks
 - **Hit Rate**: Improves accuracy of attacks and skill attempts
 - **Movement Speed**: Enhances travel speed and mobility
-- **Role Synergy**: Essential for scouts, archers, and mobile combat roles
 
-**Spirit** *(Support and Efficiency)*
+**Spirit**
 - **Buff Duration**: Extends the effectiveness of beneficial effects
 - **Healing**: Increases healing provided to others and self-recovery
 - **Attack Speed**: Accelerates combat actions and weapon usage
 - **Gather Yield**: Improves resource collection efficiency
-- **Role Synergy**: Perfect for medics, gatherers, and support specialists
 
 ## Combat Skills
 
@@ -117,14 +113,9 @@ Combat effectiveness improves through practical experience with specific weapon 
 
 **Experience-Based Growth**
 - **Weapon-Specific**: Each weapon type has its own proficiency level
-- **Usage Requirements**: Proficiency increases only through actual combat usage
+- **Usage Requirements**: Proficiency increases only through actual combat usage or training
 - **Damage Multiplier**: Higher proficiency directly increases damage output
 - **Specialization**: Encourages humanoids to specialize in specific weapon types
-
-**Strategic Considerations**
-- **Equipment Matching**: Assign weapons that match each humanoid's developing proficiencies
-- **Combat Roles**: Specialized weapon users become more effective in their chosen combat style
-- **Long-term Planning**: Early weapon choices influence future combat effectiveness
 
 ## Management Philosophy
 

@@ -18,7 +18,6 @@ and complex recovery systems that affect humanoids, animals, and even plant life
 ### Transmission Varieties
 - **Fatal Diseases**: Can result in permanent death if not properly managed
 - **Contagious Diseases**: Spread between individuals through proximity and contact
-- **Species-Specific**: Different diseases affect humanoids, animals, and plants in unique ways
 
 ## Disease Sources and Transmission
 
@@ -98,32 +97,26 @@ These diseases create ongoing challenges but won't directly kill your humanoids 
 #### **Dream Worm**
 - **Effect**: Decreases sleep gain efficiency
 - **Impact**: Humanoids require longer rest periods to recover fully
-- **Management**: Provide extended rest facilities and monitor sleep schedules
 
 #### **Divoc Virus**
 - **Effect**: Reduces attack speed and damage multiplier
 - **Critical Threshold**: Maintaining 100% disease progress induces permanent unconsciousness
-- **Management**: Aggressive treatment required to prevent reaching maximum progression
 
 #### **Mind Root**
 - **Effect**: Decreases overall mood and mental well-being
 - **Impact**: Affects social interactions and work motivation
-- **Management**: Provide recreational activities and social support
 
 #### **Muscle Tremor**
 - **Effect**: Reduces work speed and endurance
 - **Impact**: Significantly impacts physical labor efficiency
-- **Management**: Assign affected humanoids to less physically demanding tasks
 
 #### **Nova Pox**
 - **Effect**: Decreases damage reduction and healing received multiplier
 - **Impact**: Makes humanoids more vulnerable to combat and slower to recover
-- **Management**: Keep affected individuals away from dangerous situations
 
 #### **Stomach Bacteria**
 - **Effect**: Increases calorie consumption rate
 - **Impact**: Requires additional food resources to maintain health
-- **Management**: Ensure adequate food supplies and monitor nutrition levels
 
 ### Fatal Diseases
 
@@ -134,33 +127,20 @@ These diseases can result in permanent death if not properly treated and require
 #### **Feral Fever**
 - **Effect**: Periodical chance to enter feral frenzy, causing infected humanoids to attack and consume nearby animals
 - **Danger**: Can disrupt livestock and create chaos in settlements
-- **Management**: Immediate quarantine and aggressive treatment required
 
 #### **Flu**
 - **Effect**: Significantly decreases movement speed
 - **Progression**: Can become fatal if left untreated
-- **Management**: Rest, medical treatment, and isolation to prevent spread
 
 #### **Plague**
 - **Effect**: Drastically decreases healing received from all sources
 - **Danger**: Makes recovery from other injuries or diseases extremely difficult
-- **Management**: Priority medical treatment and complete isolation
 
 #### **Rabies**
 - **Effect**: Periodically causes uncontrollable aggression toward other humanoids
 - **Transmission**: Can spread infection through combat hits
-- **Management**: Immediate quarantine essential; highly contagious and dangerous
 
 ### Disease Management Strategies
-
-**Tailored Treatment Approaches**
-
-#### **Non-Fatal Disease Management**
-- **Monitoring**: Regular health checks to track progression
-- **Work Assignment**: Adjust roles based on disease effects
-- **Support Systems**: Provide additional resources to compensate for penalties
-
-#### **Fatal Disease Management**
 - **Immediate Response**: Priority medical treatment and quarantine
 - **Resource Allocation**: Dedicate best medical personnel and supplies
 - **Containment**: Strict isolation protocols to prevent spread
@@ -174,11 +154,6 @@ These diseases can result in permanent death if not properly treated and require
 - Multiple diseases can affect the same humanoid simultaneously
 - Combined effects can create devastating penalties
 - Priority treatment protocols needed for multiple infections
-
-#### **Vulnerability Cascades**
-- Diseases like Nova Pox make humanoids more susceptible to other conditions
-- Healing reduction diseases (Plague) make recovery from other ailments difficult
-- Strategic treatment order becomes crucial
 
 #### **Social Impact**
 - Aggressive diseases (Rabies, Feral Fever) can disrupt entire settlements

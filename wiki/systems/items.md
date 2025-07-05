@@ -158,7 +158,7 @@ and maintenance become as important as acquisition, adding depth and realism to 
     - **Ability** - Ability runes
     - **Passive** - Passive runes
 - **Equipment** - Equipment enhancement runes
-- **ManaAbility** - Mana and ability runes
+- **ManaAbility** - Mana ability runes
 
 ### Structure
 - Building and construction items

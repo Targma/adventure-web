@@ -2,23 +2,11 @@
 
 **Comprehensive Difficulty and Gameplay Customization**
 
-RuneEra provides extensive customization options to tailor your gameplay experience. Due to the complexity of balancing a game of this s
-cope, we've implemented a flexible system that allows players to create their perfect challenge level.
-
-## Difficulty System
-
-**Adaptive Challenge Framework**
+RuneEra provides extensive customization options to tailor your gameplay experience. Due to the complexity of balancing a game of this 
+scope, we've implemented a flexible system that allows players to create their perfect challenge level.
 
 Balancing a game of RuneEra's complexity presents unique challenges. Our approach combines analytical balance with extensive gameplay testing, 
 though the dynamic nature of events and emergent gameplay makes perfect balance difficult to achieve.
-
-### Development Approach
-
-**Multi-Layered Balancing**
-- **Analytical Foundation**: Initial balance based on mathematical models and system analysis
-- **Gameplay Testing**: Real-world playtesting to identify balance issues and edge cases
-- **Adaptive Systems**: Difficulty sliders allow players to compensate for any remaining imbalances
-- **Community Feedback**: Alpha build feedback helps refine balance across different playstyles
 
 ### Difficulty Presets
 
@@ -28,8 +16,10 @@ though the dynamic nature of events and emergent gameplay makes perfect balance 
 - **Medium**: Balanced experience tested extensively during development
 - **Hard**: Increased challenge for experienced players seeking greater difficulty
 
-**Important Note**: While Medium difficulty has been thoroughly tested, Easy and Hard presets are adjusted by mathematical scaling. 
+::: tip Important Note 
+While Medium difficulty has been thoroughly tested, Easy and Hard presets are adjusted by mathematical scaling. 
 Easy may prove too simple, while Hard could potentially be overwhelming. Players can adjust difficulty at any time through game settings.
+:::
 
 ## Universe Options
 
@@ -78,7 +68,7 @@ Easy may prove too simple, while Hard could potentially be overwhelming. Players
 - **Flexibility**: Allows combat-focused difficulty adjustment independent of general intensity
 
 **Boss Scaling**
-- **Purpose**: Increases boss health, armor, and attack statistics
+- **Purpose**: Increases boss and named undead health, armor, and attack statistics
 - **Challenge**: Makes boss encounters more demanding and longer-lasting
 - **Preparation**: Requires better equipment and strategy for success
 
