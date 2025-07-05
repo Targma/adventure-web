@@ -16,13 +16,17 @@ During development we primarily focused on following metrics
 - **Consistency**: Minimal frame time variance across different activities
 
 ### Memory Management
-- **Baseline Usage**: Large usage of memory due to large texture sizes
-- **Scaling**: Small and linear memory growth with additional explored areas
+- **Baseline Usage**: Large usage of memory due to texture sizes (1.2 GB for single colony)
+- **Scaling**: Small and linear memory growth with additional explored areas ( for each additional area)
 
 ### Timings
 - **Startup**: Initializes all static type definitions objects takes around 2s
-- **Load**: Load from game menu longer due to UI initialization. Total time around 6s
-- **Save**: Heavily depends on the number of areas, on average < 100ms per area, 10 areas 1 second
+- **Game Load**:
+    - From main menu: ~6 seconds (includes UI initialization)
+    - From in-game menu: ~3 seconds
+    - Single area load time
+- **Multi-area Loading**: Scales linearly with area count (approximately 27 seconds for 7 areas)
+- **Save**: Heavily depends on the number of areas, on average < 100ms per area (10 areas 1 second)
 - **Area Transitions**: Instantaneous switching between explored areas
 
 ## Performance Demonstrations
