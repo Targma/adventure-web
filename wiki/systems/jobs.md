@@ -49,11 +49,6 @@ Humanoids develop specialized skills through consistent practice, creating oppor
 Carefully plan specializations based on your guild's needs. Specialized humanoids significantly outperform generalists in their chosen fields.
 :::
 
-::: warning Limited Specializations
-Specialization choices are permanent and limited. Consider your long-term strategy before committing to specific profession paths.
-:::
-
-
 ## Screenshots
 
 ![Jobs list](/resources/menus/jobs_list.png)

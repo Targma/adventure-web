@@ -2,7 +2,7 @@
 
 **Unlock Your Potential Through Ancient Power**
 
-Ability runes are mystical artifacts that grant humanoids access to extraordinary powers and combat techniques. Each rune contains concentrated magical energy that, when properly attuned, bestows specific abilities upon the wielder.
+Ability runes are mystical artifacts that grant humanoids access to extraordinary powers and combat techniques. 
 
 ::: warning Alpha Build Limitations
 Abilities in the current alpha build do not feature special animations or visual effects. Full animation systems and enhanced visual feedback will be implemented in the complete release version.

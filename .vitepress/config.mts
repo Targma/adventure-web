@@ -63,7 +63,6 @@ export default defineConfig({
             { text: 'Settlement', link: '/wiki/systems/settlement' },
             { text: 'Zone', link: '/wiki/systems/zone' },
             { text: 'Room', link: '/wiki/systems/room' },
-            { text: 'Storage', link: '/wiki/systems/storage' },
             { text: 'Mana', link: '/wiki/systems/mana' },
             { text: 'Portal', link: '/wiki/systems/portal' },
 
@@ -82,10 +81,9 @@ export default defineConfig({
         {
           text: 'Development',
           items: [
-            { text: 'System Design', link: '/wiki/development/system-design' },
+            { text: 'Technical Foundation', link: '/wiki/development/technical-foundation' },
             { text: 'Roadmap', link: '/wiki/development/roadmap' },
             { text: 'Modding', link: '/wiki/development/modding' },
-            { text: 'Github', link: '/wiki/development/github' },
           ]
         }
       ]

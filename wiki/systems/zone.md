@@ -15,11 +15,6 @@ Strategic zone placement reduces micromanagement while maintaining precise contr
 - Configure individual resource types and quantities
 - Automated resource distribution and organization
 
-**Configuration Options**
-- Specific resource targeting
-- Quantity thresholds and limits
-- Priority-based resource allocation
-- Overflow handling rules
 
 ## Farming Zone
 
@@ -28,12 +23,6 @@ Strategic zone placement reduces micromanagement while maintaining precise contr
 - Automated seeding of designated crops
 - Seasonal planting coordination
 - Reduces manual farming micromanagement
-
-**Management Features**
-- Crop rotation scheduling
-- Seed inventory monitoring
-- Growth optimization
-- Harvest coordination
 
 ## Navigation Zone
 

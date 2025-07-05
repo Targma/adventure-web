@@ -34,7 +34,6 @@ These complex structures require significant investment in construction, activat
 - Attuned portals automatically generate usage charges
 - **Cooldown**: 4 days between charge generation
 - **Capacity**: Maximum uses varies by portal tier
-- **Efficiency**: Higher tiers generate more charges
 
 ## Portal Operations
 
@@ -45,15 +44,16 @@ These complex structures require significant investment in construction, activat
 - **Active Window**: 3 hours once opened
 - **Capacity**: Transports units and roped animals together
 
-**Connection Requirements**
-- Can only link to other attuned portals
-
 ### Item Transportation
 **Transfer Mode**
 - **Cost**: 15 mana per transfer
 - **Function**: Swaps entire storage contents between portals
 - **Duration**: Same opening requirements as travel
 - **Efficiency**: Ideal for bulk resource management
+
+::: warning Connection Requirements
+- Can only link to other attuned portals
+:::
 
 ## Strategic Applications
 

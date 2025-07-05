@@ -23,7 +23,6 @@ Quality assessment is crucial, as poorly chosen recruits can create long-term pr
 **Quest Rewards**
 - Rare additional rewards from completed quests
 - Unpredictable but valuable opportunities
-- Often provides higher-quality recruits
 
 ## Evaluation Criteria
 

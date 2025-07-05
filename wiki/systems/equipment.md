@@ -62,7 +62,7 @@ All humanoids utilize the same equipment slot system, providing consistent upgra
 
 ### **Secondary Equipment**
 - **Shield** - Defensive equipment for protection and blocking
-- **Focus** - Magical off-hand item for spell enhancement
+- **Focus** - Magical off-hand item for healing enhancement
 
 ### **Attack Types**
 - **Melee:** Close-range physical combat
@@ -104,7 +104,6 @@ and trade-offs that cater to different combat styles and strategic approaches.
 - **Frontline Combat**: Ideal for tank roles and direct confrontation
 - **Defensive Positions**: Excellent for holding strategic locations
 - **Group Protection**: Shielding allies through positioning and presence
-- **Siege Operations**: Superior protection during prolonged engagements
 
 ### **Medium Armor**
 
@@ -126,7 +125,6 @@ and trade-offs that cater to different combat styles and strategic approaches.
 - **Skirmish Combat**: Excellent for mobile warfare and flanking
 - **Reconnaissance**: Good protection without excessive mobility penalties
 - **Support Roles**: Balanced capabilities for assisting allies
-- **Adaptive Tactics**: Suitable for changing combat requirements
 
 ### **Light Armor**
 
@@ -147,23 +145,6 @@ and trade-offs that cater to different combat styles and strategic approaches.
 - **Hit-and-Run Tactics**: Excellent for quick strikes and retreats
 - **Ranged Combat**: Ideal for archers and magical combatants
 - **Healing Roles**: Enhanced medical capabilities and recovery
-
-
-## Equipment Customization
-
-**Personalization Options**
-
-### Individual Optimization
-- **Stat Priorities**: Focus on specific attributes for role specialization
-- **Situational Loadouts**: Equipment sets for different scenarios
-- **Preference Accommodation**: Equipment choices matching individual play styles
-- **Weakness Mitigation**: Addressing specific vulnerabilities through equipment
-
-### Group Coordination
-- **Complementary Builds**: Equipment choices that support team effectiveness
-- **Role Distribution**: Balanced equipment across group members
-- **Resource Sharing**: Coordinated equipment acquisition and distribution
-- **Tactical Synergy**: Equipment combinations that enhance group tactics
 
 
 This comprehensive equipment system provides meaningful choices that significantly impact character 
@@ -220,10 +201,11 @@ including damage mitigation, mobility, and resistance to various attack types.
 | **Nature Resistance** | Resistance to nature damage | -90% | 200% |
 | **Void Resistance** | Resistance to void damage | -90% | 200% |
 
-## Notes
+::: tip Note
 - **Modifiers**: Stats can be modified by equipment rarity
 - **Aggregation**: Multiple offensive stat sources are combined additively
 - **Limits**: All percentage-based stats are capped at their maximum values during calculation
+:::
 
 ## Screenshot
 

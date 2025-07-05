@@ -71,20 +71,6 @@ Quest completion affects:
 - Character progression
 - World state changes
 
-### Adaptive Difficulty
-The system automatically adjusts quest difficulty based on:
-- Your current power level
-- Available party members
-- Equipment and resources
-- Previous quest performance
-
-## Getting Started
-
-Quests are automatically generated and presented to you based on your current situation. 
-Check your quest log regularly for new opportunities, and remember that some quests may have time limits or seasonal availability.
-
-The quest system ensures that there's always something meaningful to do, 
-whether you're interested in combat, trade, exploration, or community building.
 
 ## Screenshot
 

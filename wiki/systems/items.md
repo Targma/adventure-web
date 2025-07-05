@@ -8,8 +8,6 @@ realistic wear patterns and strategic storage considerations.
 
 ## Item Fundamentals
 
-**Essential Game Components**
-
 ### Core Importance
 - **Progression Foundation**: Items are essential for character and settlement advancement
 - **Combat Requirements**: Weapons, armor, and consumables determine combat effectiveness

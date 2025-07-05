@@ -58,20 +58,20 @@ Powerful magical effects categorized by complexity and mana requirements:
 
 These abilities are unlocked through technology research and provide powerful utility effects with longer cooldowns:
 
-- **Refresh** - Restores all basic needs (hunger, thirst, sleep) to maximum for target humanoid  
-  *25 mana, 15-day cooldown, 5 stacks*
-
 - **Promotion** - Instantly raises a human unit to the next tier level  
   *30 mana, 3-day cooldown*
-
-- **Teleport** - Moves all units in a 3x3 area to another 3x3 location  
-  *30 mana, 30-day cooldown, 2 stacks*
 
 - **Revive** - Brings dead player units back to life with 10% health and 20% vitality  
   *60 mana, 4-month cooldown*
 
+- **Teleport** - Moves all units in a 3x3 area to another 3x3 location  
+  *30 mana, 30-day cooldown, 2 stacks*
+
 - **Lightning** - Strikes a 2-tile radius area dealing 150 pure damage, stunning enemies, and creating fire  
   *40 mana, 15-day cooldown, 3 stacks*
+
+- **Refresh** - Restores all basic needs (hunger, thirst, sleep) to maximum for target humanoid  
+  *25 mana, 15-day cooldown, 5 stacks*
 
 - **Rarity Upgrade** - Increases the rarity tier of target item  
   *80 mana, 1-month cooldown, 5 stacks*
@@ -119,7 +119,7 @@ These abilities are unlocked through technology research and provide powerful ut
 ### Tier V
 - **Black Hole** - Creates devastating gravitational anomaly in 5-tile radius  
   *150 mana, 20-day cooldown*
-- **Spirit Break** - Converts 30% of enemy faction units to your side  
+- **Spirit Break** - Intimidates 30% of enemy faction units to flee  
   *200 mana, 35-day cooldown*
 - **Tranquility** - Removes all stress effects from target humanoid  
   *80 mana, 15-day cooldown, 2 stacks*
@@ -138,11 +138,6 @@ These abilities have some of the longest cooldowns in the game, measured in mont
 - High mana generation strains the environment
 - Increased generation triggers more frequent mana events
 - Events become more extreme with higher depletion levels
-
-### Management Strategy
-- Balance generation with environmental stability
-- Reduce generation temporarily to lower depletion
-- Plan for increased event frequency during expansion
 
 ::: tip Ability Management
 Mana abilities have lengthy cooldowns measured in days. Plan ability usage strategically for maximum impact rather than frequent casting.

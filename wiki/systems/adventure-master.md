@@ -63,26 +63,17 @@ alive and responsive to your actions while maintaining narrative coherence and a
 - Creates contextual quests based on world state
 - Adapts quest difficulty to player capabilities
 - Ensures quest relevance to current progression
-- Maintains narrative continuity across questlines
 
 **Reward Scaling**
 - Adjusts quest rewards based on difficulty tier
 - Ensures appropriate risk-reward balance
 - Provides meaningful progression incentives
-- Maintains economic stability
 
 ### Tier Aggression System
 **Escalating Challenges**
 - Increases danger levels with distance from center
 - Scales enemy strength and frequency
-- Adjusts resource quality and rarity
 - Maintains challenge curve throughout progression
-
-**Adaptive Difficulty**
-- Monitors player capability and success rates
-- Adjusts challenge parameters dynamically
-- Ensures consistent gameplay tension
-- Prevents overwhelming or trivial encounters
 
 ## Mana Depletion Management
 
@@ -132,21 +123,6 @@ alive and responsive to your actions while maintaining narrative coherence and a
 - Influences future event generation
 - Maintains cause-and-effect relationships
 
-## Strategic Considerations
-
-### Player Agency
-**Choice Impact**
-- Ensures player decisions have meaningful consequences
-- Creates branching narrative possibilities
-- Maintains player investment in world events
-- Balances predetermined story with emergent gameplay
-
-### World Coherence
-**Narrative Consistency**
-- Maintains logical progression of world events
-- Ensures faction behavior remains believable
-- Creates coherent cause-and-effect relationships
-- Balances multiple storylines simultaneously
 
 ::: tip Event Participation
 Engage actively with Adventure Master events to influence world development. Your choices shape 
