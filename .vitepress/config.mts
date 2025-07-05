@@ -1,8 +1,18 @@
 import { defineConfig } from 'vitepress'
 
+// Import lightbox plugin
+import lightbox from "vitepress-plugin-lightbox"
+
 export default defineConfig({
   title: "RuneEra",
   description: "RPG colony management game",
+
+  markdown: {
+    config: (md) => {
+      // Use lightbox plugin
+      md.use(lightbox, {});
+    },
+  },
 
   head: [
     ['link', { rel: 'icon', href: '/resources/img/logo.ico' }],
@@ -86,5 +96,6 @@ export default defineConfig({
       { text: 'Wiki', link: '/wiki/introduction' },
       { text: 'Screenshots', link: '/screenshots' },
     ]
-  }
+  },
+
 })
