@@ -15,11 +15,21 @@ export default defineConfig({
   },
 
   head: [
-    ['link', { rel: 'icon', href: '/resources/img/logo.ico' }],
+    ['link', { rel: 'icon', href: '/resources/logo.ico' }],
   ],
 
   themeConfig: {
-    logo: '/resources/img/logo.png',
+    logo: '/resources/logo.png',
+
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/RuneEra/RuneEra' },
+      { icon: 'discord', link: 'https://discord.gg/qmHsxjph' }
+    ],
+
+    footer: {
+      copyright: 'Copyright © 2025-present Jan Gasperlin'
+    },
+
     sidebar: {
       '/wiki': [
         {

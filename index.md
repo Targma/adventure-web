@@ -6,9 +6,6 @@ hero:
   name: "RuneEra"
   text: "RPG colony management game"
   tagline: "Build your guild, explore fantasy world, and master the rune magic"
-  image:
-    src: /resources/img/logo.png
-    alt: RuneEra game artwork
   actions:
     - theme: brand
       text: Learn More
