@@ -17,8 +17,8 @@ hero:
       text: Screenshots
       link: /screenshots
     - theme: alt
-      text: Github
-      link: /development
+      text: Alpha build
+      link: /wiki/alpha-build/download
 
 features:
   - title: Settlement
@@ -40,5 +40,7 @@ features:
 ---
 
 ::: info Development Notice
-🎨 **Temporary Artwork**: Current game assets were crafted using AI tools and serve as placeholder art due to budget constraints. We will be seeking community support to fund professional artists through an upcoming Kickstarter campaign. The final game will feature hand-crafted artwork that truly captures the RuneEra universe.
+🎨 **Temporary Artwork**: Current game assets were crafted using AI tools and serve as placeholder art due to budget constraints. 
+We will be seeking community support to fund professional artists through an upcoming Kickstarter campaign. 
+The final game will feature hand-crafted artwork that truly captures the RuneEra universe.
 :::
