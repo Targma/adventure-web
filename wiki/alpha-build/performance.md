@@ -38,21 +38,19 @@ Testing system specifications: Ryzen 9 5950X, 32gb, RTX 4070Ti
 ### Multiple Settlement Operations
 ---
 
-TODO Add video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xrAN9HHSi8?si=EqIpBs-MplT6s6GW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 Complex multi-area management showcasing the engine's ability to handle:
 - Simultaneous faction activities across different biomes
 - Inter-settlement trade and resource flow
-- Coordinated military operations
 - Population management at scale
 
 **Key Metrics:**
 - Stable frame rates with 5+ active settlements
 - Minimal memory overhead during area switching
 - Smooth transition between distant locations
-- Real-time synchronization of faction activities
 
 ### Large-Scale Resource Gathering
 
