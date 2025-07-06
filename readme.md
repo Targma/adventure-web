@@ -1,95 +1,50 @@
-## RuneEar website
+# RuneEra Website Repository
 
-# Foreword/Motivation
-Inspiration
+This repository contains the official website for **RuneEra**, an RPG colony 
+management game where players build their guild, explore a fantasy world,
+and master the ancient art of rune magic.
 
-# Gameplay loop
-- Manage guild/faction members
-  - Food, Medicine, Recreation, Temperature, build shelter
-- Progression
-  - crafting, trading, quests, dungeons, bosses, settlement expansion
+## About This Repository
 
+This website serves as the central hub for:
+- **Game Information**: Detailed descriptions of gameplay features and mechanics
+- **Alpha Build Distribution**: Download links and information for testing builds
+- **Community Resources**: Documentation, guides, and development updates
+- **Development Roadmap**: Transparent updates on game progress and future plans
 
-# Game
+## Website Structure
 
-## Universe
-- Tier
+The site is built using **VitePress** and includes:
+- **Home Page**: Game overview and key features
+- **Wiki Section**: Comprehensive game documentation
+- **Screenshots**: Visual showcase of current development
+- **Download Section**: Alpha build access and system requirements
+- **Development Info**: Roadmap, modding plans, and technical details
 
-### World
-- Discovery
-  - Dungeon
-  - Resources
-  - Boss dungeon
-- Factions settlements
-  - Trade
-  - Pillage
-### World area
-- Biome types
-- Weather, temperature
-- biome event
-- Resources
+## Technology Stack
 
-## Job
-## Room
-## Zone
-## Items/Storage
+- **Framework**: VitePress 1.6.3
+- **Frontend**: Vue 3.5.17
+- **Package Manager**: npm
+- **Plugins**: vitepress-plugin-lightbox for image galleries
 
-## Mana
-### Mana rune
-### Portal
+## Development
 
-## Environment
-### Plants
-#### Farming/Gathering
-#### Greenhouse
-### Wildlife
-#### Husbandry/Husbandry
+### Prerequisites
+- Node.js (latest LTS version recommended)
+- npm package manager
 
-## Humanoid
-### Equipment
-- List equipment type and source
-- Durability
-- Priority list / Force
-### Inventory
-- Inventory
-### Health/Vitality
-### Diseases
-### Social
-### Triggers
+### Setup
+```bash
+# Clone the repository
+git clone https://github.com/RuneEra/RuneEra-Website.git
 
+# Install dependencies
+npm install
 
-## Adventure master
-### Faction
-### Events
-### Quests
-### Tier Aggression
-### Mana depletion
+# Start development server
+npm run dev
 
-## Runes
-### Ability rune
-### Equipment rune
-
-## Items
-### Equipment
-#### Weapons
-- List all weapons
-#### Armor
-- List all armor
-#### Gear
-- List all gear
-### Potions
-- List all potions
-### Medicine
-- Describe medicine,treatment
-### Food
-- Describe food types
-- Describe fest
-
-
-# Universe settings
-
-# System design
-- Mix of ECS and reactive
-- Task Multithreaded at entity level
-
-# Github, page for gathering feedback, reporting issues,
+# Build for production
+npm run build
+```
