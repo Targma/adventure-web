@@ -1,11 +1,12 @@
 # Alpha Build Download
 
-## Important Alpha Build Information
+**Download Location**: [GitHub Releases Page](https://github.com/RuneEra/RuneEra/releases)
 
-### Current Build Status
+## Current Build Status
+
 The RuneEra alpha build is designed to showcase the core technical achievements and gameplay mechanics to our community and potential backers. While fully playable from start to finish, please be aware of the following limitations:
 
-### Known Limitations
+## Known Limitations
 
 **🎨 Placeholder Assets**
 - All visual assets are AI-generated placeholders due to current budget constraints
@@ -20,11 +21,11 @@ The RuneEra alpha build is designed to showcase the core technical achievements 
 - **Potential Deadlocks**: Rare possibility of permanent game freezing due to threading issues
 - **Vulkan Renderer**: Built with Godot 4.4.1 using Vulkan renderer - requires modern GPU hardware
 
-### System Requirements
+## System Requirements
 - **Graphics**: Modern GPU with Vulkan support
 - **OS**: Windows 10/11, (Linux support is currently not available, should be possible at a later date)
 
-### Performance & Bug Reporting
+## Performance & Bug Reporting
 
 **If you experience issues, please report them via:**
 - **Discord**: [Join our community server](https://discord.gg/qmHsxjph)
@@ -35,12 +36,6 @@ The RuneEra alpha build is designed to showcase the core technical achievements 
 - Save file
 - Detailed description of the issue
 - Steps to reproduce (if applicable)
-
-### Download Information
-
-**Release Timeline**: Alpha build will be available in 2-3 days pending final balancing adjustments.
-
-**Download Location**: [GitHub Releases Page](https://github.com/RuneEra/RuneEra/releases)
 
 ---
 

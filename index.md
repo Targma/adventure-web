@@ -14,7 +14,7 @@ hero:
       text: Screenshots
       link: /screenshots
     - theme: alt
-      text: Alpha build
+      text: Download
       link: /wiki/alpha-build/download
 
 features:
