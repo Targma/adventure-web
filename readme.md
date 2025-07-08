@@ -34,6 +34,7 @@ The site is built using **VitePress** and includes:
 - Node.js (latest LTS version recommended)
 - npm package manager
 
+
 ### Setup
 ```bash
 # Clone the repository
