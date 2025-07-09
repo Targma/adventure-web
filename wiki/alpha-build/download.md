@@ -1,6 +1,6 @@
 # Alpha Build Download
 
-**Download Location**: [GitHub Releases Page](https://github.com/RuneEra/RuneEra/releases)
+**Download Location**: [GitHub Releases Page](https://github.com/RuneEra/RuneEra/tags)
 
 ## Current Build Status
 
