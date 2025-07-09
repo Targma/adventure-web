@@ -122,6 +122,71 @@ based on emerging battlefield conditions and enemy responses.
 : Gradually deploy more powerful abilities and resources as engagement 
 intensity increases, reserving ultimate techniques for decisive moments.
 
+
+
+## Combat Status Effects
+
+Combat status effects are temporary conditions that affect entities during combat, providing 
+various benefits or penalties. These effects can modify stats, disable abilities, or create ongoing damage/healing over time.
+Here is a list of the most common effects.
+
+::: tip Note
+For each boss or ability there can be its own unique effect
+:::
+
+### Control Effects
+Effects that limit or prevent actions:
+
+**Stun** - Completely disables movement and actions for a short duration.
+
+**Immobilize** - Prevents movement while allowing other actions. Entities can still attack and use abilities but cannot change position.
+
+**Sleep** - Renders the target unconscious and unable to act. Similar to stun but may have different resistance mechanics and can be broken by damage.
+
+**Fear** - Causes the target to lose control and flee. The entity becomes uncontrollable and may attempt to move away from threats.
+
+**Frozen** - Completely disables actions and movement until first damage taken, which is increased.
+
+### Damage Effects
+Effects that deal damage over time:
+
+**Poison** - Inflicts nature damage over time with high penetration while lowering healing received. 
+
+### Stat Modification Effects
+Effects that enhance or reduce entity capabilities:
+
+**Offensive Break** - Significantly reduces damage output, making attacks much less effective.
+
+**Defensive Break** - Reduces damage resistance, making the target more vulnerable to incoming attacks.
+
+**Offensive Enchantment** - Increases damage output and offensive capabilities.
+
+**Defensive Enchantment** - Improves damage resistance and defensive stats.
+
+**Sprint** - Increases movement speed and dodge rate for improved mobility.
+
+**Slow** - Reduces movement speed.
+
+
+### Effect Mechanics
+
+#### Duration
+Most effects have a set duration that counts down over time. Some effects may be permanent until dispelled or may refresh their duration when reapplied.
+
+#### Stacking
+Only must powerful effect is used at same time.
+
+#### Resistance
+Some effects gain resistance duration after they expire. This is to prevent spamming the same effect over and over again (Stun, Frozen, Fear, ...)
+
+#### Dispelling
+Some effects can be removed through specific abilities, items, or by meeting certain conditions (such as taking damage to break sleep / frozen effects).
+
+### Visual Indicators
+Each status effect displays a distinctive icon and visual effect on the affected entity, making it easy to 
+identify active conditions during combat. The effects also provide detailed tooltips showing their current impact and remaining duration.
+
+
 ::: tip Combat Mastery
 Success in RuneEra's combat system comes from understanding the interplay between real-time positioning, 
 strategic resource management, and tactical timing. Master the pause function to analyze complex situations without pressure.
