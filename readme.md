@@ -38,7 +38,7 @@ The site is built using **VitePress** and includes:
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/RuneEra/RuneEra-Website.git
+git clone https://github.com/RuneEra/RuneEra-Web.git
 
 # Install dependencies
 npm install
