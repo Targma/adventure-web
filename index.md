@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "RuneEra"
   text: "RPG colony management game"
-  tagline: "Build your guild, explore fantasy world, and master the rune magic"
+  tagline: "Build your guild, explore fantasy world, and master the rune magic"  
   actions:
     - theme: brand
       text: Learn More
       link: /wiki/introduction
     - theme: alt
-      text: Screenshots
-      link: /screenshots
+      text: Media
+      link: /media
     - theme: alt
       text: Download
       link: /wiki/alpha-build/download
@@ -41,3 +41,9 @@ features:
 We will be seeking community support to fund professional artists through an upcoming Kickstarter campaign. 
 The final game will feature hand-crafted artwork that truly captures the RuneEra universe.
 :::
+
+
+
+<div style="display: flex; justify-content: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LiFs-YtcLjg?si=4W9Ps77GgmCmFxUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

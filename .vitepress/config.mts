@@ -23,7 +23,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/RuneEra/RuneEra' },
-      { icon: 'discord', link: 'https://discord.gg/qmHsxjph' }
+      { icon: 'discord', link: 'https://discord.gg/qmHsxjph' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@ExiledGuildGame' }
     ],
 
     footer: {
@@ -102,7 +103,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Wiki', link: '/wiki/introduction' },
-      { text: 'Screenshots', link: '/screenshots' },
+      { text: 'Media', link: '/media' },
     ]
   },
 
