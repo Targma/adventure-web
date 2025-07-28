@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.CtP7Q83N.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/development/github.md","filePath":"wiki/development/github.md"}'),i={name:"wiki/development/github.md"};function o(n,r,s,c,p,d){return a(),t("div")}const l=e(i,[["render",o]]);export{_ as __pageData,l as default};
