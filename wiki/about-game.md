@@ -34,4 +34,4 @@ This creates a rich, evolving gameplay experience where every decision matters a
 
 ## Screenshot
 
-![Home screen](/resources/home_screen.png)
+![Home screen](/resources/home_screen.jpg)
