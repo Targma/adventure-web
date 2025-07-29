@@ -64,6 +64,6 @@ Never house predatory animals with prey species. This will result in lost livest
 
 ## Screenshot
 
-![Husbandry](/resources/menus/husbandry.png)
+![Husbandry](/resources/menus/husbandry.jpg)
 
-![Husbandry Manageemnt](/resources/menus/husbandry_management.png)
+![Husbandry Manageemnt](/resources/menus/husbandry_management.jpg)

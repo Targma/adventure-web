@@ -69,4 +69,4 @@ food supplies and herb production.
 
 ## Screenshot
 
-![Farming zone](/resources/menus/farming_zone.png)
+![Farming zone](/resources/menus/farming_zone.jpg)

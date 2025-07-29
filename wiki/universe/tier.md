@@ -38,4 +38,4 @@ This encourages players to carefully balance their expansion ambitions with thei
 
 ## Screenshot
 
-![Research](/resources/menus/research.png)
+![Research](/resources/menus/research.jpg)

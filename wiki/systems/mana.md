@@ -149,6 +149,6 @@ High mana generation attracts dangerous events. Consider reducing generation tem
 
 ## Screenshots
 
-![Mana menu](/resources/menus/mana_abilities.png)
+![Mana menu](/resources/menus/mana_abilities.jpg)
 
-![Search](/resources/menus/search.png)
+![Search](/resources/menus/search.jpg)

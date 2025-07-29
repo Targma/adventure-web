@@ -112,4 +112,4 @@ Consider multiple smaller specialized rooms instead of one large multi-purpose s
 
 ## Screenshot
 
-![Guide](/resources/menus/guide.png)
+![Guide](/resources/menus/guide.jpg)

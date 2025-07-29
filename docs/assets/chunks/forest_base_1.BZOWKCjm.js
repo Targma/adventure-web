@@ -1,0 +1,1 @@
+const s="/assets/plains_base_1.DPYyeUHi.jpg",_="/assets/desert_base_1.CRbSAKSm.jpg",t="/assets/mountain_base_1.CSwwtmSR.jpg",a="/assets/jungle_base_1.BP1tc3Jy.jpg",e="/assets/forest_base_1.VJwii0W_.jpg";export{s as _,_ as a,t as b,a as c,e as d};

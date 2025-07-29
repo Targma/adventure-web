@@ -70,4 +70,4 @@ Plan expansion timing carefully to avoid resource shortages.
 
 ## Screenshots
 
-![Transportation](/resources/menus/transportation.png)
+![Transportation](/resources/menus/transportation.jpg)

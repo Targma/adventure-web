@@ -167,4 +167,4 @@ and maintenance become as important as acquisition, adding depth and realism to 
 
 ## Screenshots
 
-![Whitelist](/resources/menus/whitelist.png)
+![Whitelist](/resources/menus/whitelist.jpg)

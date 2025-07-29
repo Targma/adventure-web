@@ -116,12 +116,12 @@ This persistent world system ensures that every area feels consequential and ali
 
 ## Screenshot
 
-![Plains base](/resources/game/plains_base_1.png)
+![Plains base](/resources/game/plains_base_1.jpg)
 
-![Desert base](/resources/game/desert_base_1.png)
+![Desert base](/resources/game/desert_base_1.jpg)
 
-![Mountain base](/resources/game/mountain_base_1.png)
+![Mountain base](/resources/game/mountain_base_1.jpg)
 
-![Jungle base](/resources/game/jungle_base_1.png)
+![Jungle base](/resources/game/jungle_base_1.jpg)
 
-![Forest base](/resources/game/forest_base_1.png)
+![Forest base](/resources/game/forest_base_1.jpg)

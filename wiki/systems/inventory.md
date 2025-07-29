@@ -53,9 +53,9 @@ where effective resource management becomes as important as resource acquisition
 
 ## Screenshot
 
-![Inventory stock](/resources/menus/inventory_stock.png)
+![Inventory stock](/resources/menus/inventory_stock.jpg)
 
-![Inventory stock management](/resources/menus/inventory_stock_management.png)
+![Inventory stock management](/resources/menus/inventory_stock_management.jpg)
 
-![Food priority](/resources/menus/food_priority.png)
+![Food priority](/resources/menus/food_priority.jpg)
 

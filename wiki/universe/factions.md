@@ -66,4 +66,4 @@ where every diplomatic decision and military action contributes to an ever-chang
 
 ## Screenshot
 
-![Inventory stock](/resources/menus/factions.png)
+![Inventory stock](/resources/menus/factions.jpg)

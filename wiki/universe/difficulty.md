@@ -130,6 +130,6 @@ The flexibility of this system means that no player needs to be frustrated by po
 
 ## Screenshots
 
-![Options menu](/resources/menus/options_gameplay.png)
+![Options menu](/resources/menus/options_gameplay.jpg)
 
-![Options menu](/resources/menus/options_hotkeys.png)
+![Options menu](/resources/menus/options_hotkeys.jpg)

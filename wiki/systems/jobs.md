@@ -51,4 +51,4 @@ Carefully plan specializations based on your guild's needs. Specialized humanoid
 
 ## Screenshots
 
-![Jobs list](/resources/menus/jobs_list.png)
+![Jobs list](/resources/menus/jobs_list.jpg)

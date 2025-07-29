@@ -74,4 +74,4 @@ Quest completion affects:
 
 ## Screenshot
 
-![Quest](/resources/menus/quests.png)
+![Quest](/resources/menus/quests.jpg)

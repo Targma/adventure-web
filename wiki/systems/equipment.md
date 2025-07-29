@@ -209,7 +209,7 @@ including damage mitigation, mobility, and resistance to various attack types.
 
 ## Screenshot
 
-![Gear menu](/resources/menus/stats_gear.png)
+![Gear menu](/resources/menus/stats_gear.jpg)
 
-![Equipment priority](/resources/menus/equipment_priority_list.png)
+![Equipment priority](/resources/menus/equipment_priority_list.jpg)
 

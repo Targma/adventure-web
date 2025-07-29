@@ -829,4 +829,4 @@ Use the browser's search function (Ctrl+F) to quickly find specific abilities or
 
 ## Screenshots
 
-![Rune menu](/resources/menus/status_runes.png)
+![Rune menu](/resources/menus/status_runes.jpg)

@@ -134,10 +134,10 @@ while providing deep customization options for players who enjoy character optim
 
 ## Screenshot
 
-![Schedule menu](/resources/menus/schedule.png)
+![Schedule menu](/resources/menus/schedule.jpg)
 
-![Stats attributes](/resources/menus/stats_attributes.png)
+![Stats attributes](/resources/menus/stats_attributes.jpg)
 
-![Stats menu](/resources/menus/stats_activity.png)
+![Stats menu](/resources/menus/stats_activity.jpg)
 
-![Triggers](/resources/menus/triggers.png)
+![Triggers](/resources/menus/triggers.jpg)
