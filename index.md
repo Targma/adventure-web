@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Download
       link: /wiki/alpha-build/download
+    - theme: alt
+      text: Join Discord
+      link: https://discord.gg/3pD9SeHGTQ
 
 features:
   - title: Settlement

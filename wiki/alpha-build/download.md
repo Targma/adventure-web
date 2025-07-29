@@ -23,7 +23,7 @@ The RuneEra alpha build is designed to showcase the core technical achievements 
 ## Performance & Bug Reporting
 
 **If you experience issues, please report them via:**
-- **Discord**: [Join our community server](https://discord.gg/qmHsxjph)
+- **Discord**: [Join our community server](https://discord.gg/3pD9SeHGTQ)
 - **Itch.io topics**: [RuneEra Repository Issues](https://itch.io/t/5135005/bug-report)
 
 **When reporting, please include:**
