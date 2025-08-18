@@ -127,6 +127,8 @@ These abilities are unlocked through technology research and provide powerful ut
   *60 mana, 20-day cooldown, 3 stacks*
 - **Weather Control** - Changes weather patterns for 3 days  
   *100 mana, 15-day cooldown*
+- **Mass Teleport** - Teleports base from one world area to another
+  *300 mana, 1.5-year cooldown*
 
 **Note:** *Mana abilities are powerful game-changing effects that require technological advancement to unlock. They focus 
 on quality-of-life improvements, unit management, and devastating area attacks rather than the battlefield control. 
